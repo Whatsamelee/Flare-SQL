@@ -73,6 +73,12 @@ UPDATE `creature_template` SET mindmg=2019 WHERE entry=10503;
 UPDATE `creature_template` SET maxdmg=3029 WHERE entry=10503;
 UPDATE `creature_template` SET dmg_multiplier=2 WHERE entry=10503;
 UPDATE `creature_template` SET health_mod=40 WHERE entry=10503;
+UPDATE `creature_template` SET minlevel=72 WHERE entry=10488;
+UPDATE `creature_template` SET maxlevel=72 WHERE entry=10488;
+UPDATE `creature_template` SET mindmg=428 WHERE entry=10488;
+UPDATE `creature_template` SET maxdmg=482 WHERE entry=10488;
+UPDATE `creature_template` SET dmg_multiplier=2 WHERE entry=10488;
+UPDATE `creature_template` SET health_mod=25 WHERE entry=10488;
 
 DELETE FROM `item_template` WHERE entry=18686;
 DELETE FROM `item_template` WHERE entry=14539;
