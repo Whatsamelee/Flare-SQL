@@ -1,0 +1,2 @@
+PLEASE realize that you will not see item changes unless your cache is deleted, DO NOT log onto your core after the updates are added
+or on any other server for that matter until you delete your cache (WoWfolder->del cachefolder)
