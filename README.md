@@ -1,0 +1,1 @@
+Project Flare-SQL is a TrinityCore codebased DB project for making all 60/80 content match that of level 70 appropriately, I cannot gaurentee it'll work 100% of the time due to TrinityCore's pointless updates in the DB structure, but I will try to keep it updated at all times.
