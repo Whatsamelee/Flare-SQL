@@ -1,4 +1,4 @@
--- NOT YEET COMPLETE!
+-- NOT YET COMPLETE!
 
 UPDATE `creature_template` SET minlevel=68 WHERE entry=10489;
 UPDATE `creature_template` SET maxlevel=70 WHERE entry=10489;
